@@ -19,3 +19,6 @@
 ## Scrapped Ideas
 - Sliding under obstacles (not enough time to implement during assignment)
 - Using springs to launch yourself further (not enough time to implement during assignment)
+
+### Note
+- All characters used are ripped straight from their respective sources. We did this due to time constraints, and take no credit in making them.
